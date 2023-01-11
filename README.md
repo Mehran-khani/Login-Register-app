@@ -1,6 +1,7 @@
 # login_register_app
 
-A new Flutter project.
+Login and Register Flutter project.
+    This app uses firebase for authentication and needs to set up firebase authentication methods.
 
 ## Getting Started
 
