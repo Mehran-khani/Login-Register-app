@@ -44,39 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC8t6sZ9DYHaduysIFqG_EffFBd56ENI0U',
-    appId: '1:1057108133377:web:e445f6c3084e470964a200',
-    messagingSenderId: '1057108133377',
-    projectId: 'login-register-app-ui',
-    authDomain: 'login-register-app-ui.firebaseapp.com',
-    storageBucket: 'login-register-app-ui.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyC50CK2LZwVM0JDS06jl_1SG3FEUeNUR8U',
-    appId: '1:1057108133377:android:9283147106b5e2ad64a200',
-    messagingSenderId: '1057108133377',
-    projectId: 'login-register-app-ui',
-    storageBucket: 'login-register-app-ui.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: 'l',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBwMMfULGvI_a9qB1C-EWRFR3n9xvZxJLo',
-    appId: '1:1057108133377:ios:1fba52c053cd00e864a200',
-    messagingSenderId: '1057108133377',
-    projectId: 'login-register-app-ui',
-    storageBucket: 'login-register-app-ui.appspot.com',
-    iosClientId: '1057108133377-fir47q2d98jc9v37tjsl3fvin79poh57.apps.googleusercontent.com',
-    iosBundleId: 'com.example.loginRegisterApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBwMMfULGvI_a9qB1C-EWRFR3n9xvZxJLo',
-    appId: '1:1057108133377:ios:1fba52c053cd00e864a200',
-    messagingSenderId: '1057108133377',
-    projectId: 'login-register-app-ui',
-    storageBucket: 'login-register-app-ui.appspot.com',
-    iosClientId: '1057108133377-fir47q2d98jc9v37tjsl3fvin79poh57.apps.googleusercontent.com',
-    iosBundleId: 'com.example.loginRegisterApp',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosClientId: '',
+    iosBundleId: '',
   );
 }

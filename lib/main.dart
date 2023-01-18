@@ -4,7 +4,6 @@ import 'package:login_register_app/Screens/forgot_password_screen.dart';
 import 'package:login_register_app/Screens/home_screen.dart';
 import 'package:login_register_app/Screens/loading_screen.dart';
 import 'package:login_register_app/Screens/login_screen.dart';
-import 'package:login_register_app/Screens/password_changed.dart';
 import 'package:login_register_app/Screens/register_screen.dart';
 import 'package:login_register_app/Screens/verify_email_view.dart';
 import 'package:login_register_app/Screens/welcom_screen.dart';
