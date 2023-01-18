@@ -2,6 +2,7 @@
 
 Login and Register Flutter project.
     This app uses firebase for authentication and needs to set up firebase authentication methods.
+I will appreciate it if you give it a star if you find this project useful.
 
 ## Getting Started
 
